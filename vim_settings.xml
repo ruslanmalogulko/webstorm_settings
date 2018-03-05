@@ -1,8 +1,15 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/ProfileMapping/components/Mapping/Mapping.jsx" timestamp="1520263108118">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="308" column="34" />
+        <mark key="]" line="308" column="34" />
+        <mark key="^" line="309" column="32" />
+        <mark key="." line="308" column="34" />
+      </file>
       <file name="/Dummy.txt" timestamp="1513869736071">
         <mark key="[" line="0" column="0" />
       </file>
@@ -163,19 +170,21 @@
       <jump line="136" column="24" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Properties/components/EditProperties.jsx" />
       <jump line="184" column="22" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Properties/components/EditProperties.jsx" />
       <jump line="200" column="22" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Properties/components/EditProperties.jsx" />
+      <jump line="118" column="85" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/ProfileMapping/components/Mapping/Mapping.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/ProfileMapping/components/Mapping/Mapping.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>index</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>autoFocus</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aW5kZXggPT09IDB9Cg==</text>
+      <register name="0" type="4">
+        <text>handleDelete</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aW5kZXggPT09IDB9Cg==</text>
@@ -258,6 +267,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
