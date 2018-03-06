@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/ProfileMapping/components/Mapping/Mapping.jsx" timestamp="1520263108118">
@@ -46,6 +46,12 @@
         <mark key="]" line="117" column="55" />
         <mark key="." line="117" column="55" />
         <mark key="^" line="200" column="43" />
+      </file>
+      <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/ProfileMapping/ProfileMapping.jsx" timestamp="1520325653675">
+        <mark key="[" line="63" column="10" />
+        <mark key="]" line="63" column="11" />
+        <mark key="^" line="63" column="7" />
+        <mark key="." line="63" column="10" />
       </file>
       <file name="$USER_HOME$/Traiana/frontend/node_modules/nex-autocomplete/lib/index.jsx" timestamp="1501761995195">
         <mark key="'" line="33" column="8" />
