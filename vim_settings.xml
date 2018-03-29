@@ -10,6 +10,12 @@
         <mark key="^" line="302" column="32" />
         <mark key="." line="301" column="34" />
       </file>
+      <file name="$USER_HOME$/Traiana/frontend-combined/src/nex-layout/src/nex-layout/components/views/Layout/actions/layout.actions.js" timestamp="1522332383147">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="25" column="100" />
+        <mark key="." line="25" column="100" />
+        <mark key="^" line="25" column="100" />
+      </file>
       <file name="/Dummy.txt" timestamp="1513869736071">
         <mark key="[" line="0" column="0" />
       </file>
@@ -40,6 +46,11 @@
       <file name="$USER_HOME$/Traiana/frontend/package.json" timestamp="1513868464715">
         <mark key="'" line="167" column="0" />
       </file>
+      <file name="$USER_HOME$/Traiana/frontend-combined/src/nex-action-menu/src/nex-action-menu/components/MenuItemLink/index.jsx" timestamp="1522332804333">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Notifications/components/ConnectivityFilter/ConnectivityFilter.jsx" timestamp="1513868679649">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -57,12 +68,6 @@
         <mark key="]" line="63" column="11" />
         <mark key="^" line="63" column="7" />
         <mark key="." line="63" column="10" />
-      </file>
-      <file name="$USER_HOME$/Traiana/frontend/node_modules/nex-autocomplete/lib/index.jsx" timestamp="1501761995195">
-        <mark key="'" line="33" column="8" />
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="0" />
-        <mark key="." line="209" column="0" />
       </file>
       <file name="$USER_HOME$/Traiana/frontend/public/src/components/reusables/nex-form/components/NexDropdownPicker.jsx" timestamp="1505997523460">
         <mark key="'" line="118" column="27" />
@@ -198,10 +203,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29tcG9uZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT0ibmV3Q2xhc3MiCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/__mocks__/layout.json</text>
       </register>
       <register name="/" type="4">
         <text>autoFocus</text>
@@ -210,31 +215,31 @@
         <text>handleDelete</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29tcG9uZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT0ibmV3Q2xhc3MiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aW5kZXggPT09IDB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29tcG9uZW50KTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aW5kZXggPT09IDB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aW5kZXggPT09IDB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aXNFeGlzdGluZ1JlbGF0aW9uc2hpcCA/ICdmYWxzZScgOiAndHJ1ZSd9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aXNFeGlzdGluZ1JlbGF0aW9uc2hpcCA/ICdmYWxzZScgOiAndHJ1ZSd9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7aXNNb2RhbE9wZW4gJiYgKDxOZXhGaWVsZAogICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50PXtOZXhTZWxlY3R9CiAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJjb25uZWN0aXZpdHkiCiAgICAgICAgICAgICAgICAgICAgICBpZD0iY29ubmVjdGl2aXR5IgogICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IlNlbGVjdCBjb25uZWN0aXZpdHkiCiAgICAgICAgICAgICAgICAgICAgICB0ZXh0RmllbGQ9InRvcGljIgogICAgICAgICAgICAgICAgICAgIC8+KX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7c2hvd01vZGFsICYmIDxOZXhGaWVsZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50PXtOZXhTZWxlY3R9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJuYW1pbmdDYXRlZ29yaWVzIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ9Im5hbWluZ0NhdGVnb3JpZXMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZT17KGV2ZW50LCB2YWx1ZSkgPT4gdGhpcy5jaGFuZ2VOYW1pbmdDYXRlZ29yeSh2YWx1ZSl9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iUGxlYXNlIG1ha2UgYSBzZWxlY3Rpb24iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhPXt0aGlzLnByb3BzLm5hbWluZ0NhdGVnb3JpZXN9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLz59Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7aXNNb2RhbE9wZW4gJiYgKDxOZXhGaWVsZAogICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50PXtOZXhTZWxlY3R9CiAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJjb25uZWN0aXZpdHkiCiAgICAgICAgICAgICAgICAgICAgICBpZD0iY29ubmVjdGl2aXR5IgogICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IlNlbGVjdCBjb25uZWN0aXZpdHkiCiAgICAgICAgICAgICAgICAgICAgICB0ZXh0RmllbGQ9InRvcGljIgogICAgICAgICAgICAgICAgICAgIC8+KX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7IXNob3dNb2RhbCAmJiA8TmV4RmllbGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7c2hvd01vZGFsICYmIDxOZXhGaWVsZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50PXtOZXhTZWxlY3R9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJuYW1pbmdDYXRlZ29yaWVzIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ9Im5hbWluZ0NhdGVnb3JpZXMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZT17KGV2ZW50LCB2YWx1ZSkgPT4gdGhpcy5jaGFuZ2VOYW1pbmdDYXRlZ29yeSh2YWx1ZSl9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iUGxlYXNlIG1ha2UgYSBzZWxlY3Rpb24iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhPXt0aGlzLnByb3BzLm5hbWluZ0NhdGVnb3JpZXN9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLz59Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
