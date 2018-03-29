@@ -1,14 +1,14 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/ProfileMapping/components/Mapping/Mapping.jsx" timestamp="1520263108118">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="308" column="34" />
-        <mark key="]" line="308" column="34" />
-        <mark key="^" line="309" column="32" />
-        <mark key="." line="308" column="34" />
+        <mark key="[" line="301" column="34" />
+        <mark key="]" line="301" column="34" />
+        <mark key="^" line="302" column="32" />
+        <mark key="." line="301" column="34" />
       </file>
       <file name="/Dummy.txt" timestamp="1513869736071">
         <mark key="[" line="0" column="0" />
@@ -68,6 +68,13 @@
       </file>
       <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Notifications/Notifications.jsx" timestamp="1513868630484">
         <mark key="'" line="109" column="4" />
+      </file>
+      <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Authentication/components/EditAuthentication/EditAuthentication.jsx" timestamp="1522307994483">
+        <mark key="'" line="151" column="0" />
+        <mark key="[" line="152" column="43" />
+        <mark key="]" line="152" column="41" />
+        <mark key="^" line="152" column="41" />
+        <mark key="." line="152" column="41" />
       </file>
       <file name="$USER_HOME$/Traiana/frontend/webpack/eslint/.eslintrc.js" timestamp="1501919108977">
         <mark key="'" line="10" column="3" />
@@ -178,6 +185,11 @@
       <jump line="200" column="22" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Properties/components/EditProperties.jsx" />
       <jump line="118" column="85" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/ProfileMapping/components/Mapping/Mapping.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/ProfileMapping/components/Mapping/Mapping.jsx" />
+      <jump line="135" column="41" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Authentication/components/EditAuthentication/EditAuthentication.jsx" />
+      <jump line="182" column="0" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Authentication/components/EditAuthentication/EditAuthentication.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Authentication/components/EditAuthentication/EditAuthentication.jsx" />
+      <jump line="184" column="0" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Authentication/components/EditAuthentication/EditAuthentication.jsx" />
+      <jump line="151" column="0" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Authentication/components/EditAuthentication/EditAuthentication.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
