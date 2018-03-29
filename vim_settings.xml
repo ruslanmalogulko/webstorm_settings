@@ -18,6 +18,11 @@
         <mark key="]" line="278" column="0" />
         <mark key="." line="278" column="0" />
       </file>
+      <file name="$USER_HOME$/Traiana/frontend-platform/nex-components/configurationLoader.js" timestamp="1522320066427">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Organization/components/EditOrganization/EditOrganization.jsx" timestamp="1501762978755">
         <mark key="'" line="130" column="14" />
         <mark key="[" line="207" column="41" />
@@ -192,8 +197,8 @@
       <jump line="151" column="0" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Authentication/components/EditAuthentication/EditAuthentication.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29tcG9uZW50KTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -205,31 +210,31 @@
         <text>handleDelete</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aW5kZXggPT09IDB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29tcG9uZW50KTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aW5kZXggPT09IDB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aW5kZXggPT09IDB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aXNFeGlzdGluZ1JlbGF0aW9uc2hpcCA/ICdmYWxzZScgOiAndHJ1ZSd9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aXNFeGlzdGluZ1JlbGF0aW9uc2hpcCA/ICdmYWxzZScgOiAndHJ1ZSd9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7aXNNb2RhbE9wZW4gJiYgKDxOZXhGaWVsZAogICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50PXtOZXhTZWxlY3R9CiAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJjb25uZWN0aXZpdHkiCiAgICAgICAgICAgICAgICAgICAgICBpZD0iY29ubmVjdGl2aXR5IgogICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IlNlbGVjdCBjb25uZWN0aXZpdHkiCiAgICAgICAgICAgICAgICAgICAgICB0ZXh0RmllbGQ9InRvcGljIgogICAgICAgICAgICAgICAgICAgIC8+KX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7c2hvd01vZGFsICYmIDxOZXhGaWVsZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50PXtOZXhTZWxlY3R9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJuYW1pbmdDYXRlZ29yaWVzIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ9Im5hbWluZ0NhdGVnb3JpZXMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZT17KGV2ZW50LCB2YWx1ZSkgPT4gdGhpcy5jaGFuZ2VOYW1pbmdDYXRlZ29yeSh2YWx1ZSl9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iUGxlYXNlIG1ha2UgYSBzZWxlY3Rpb24iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhPXt0aGlzLnByb3BzLm5hbWluZ0NhdGVnb3JpZXN9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLz59Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7aXNNb2RhbE9wZW4gJiYgKDxOZXhGaWVsZAogICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50PXtOZXhTZWxlY3R9CiAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJjb25uZWN0aXZpdHkiCiAgICAgICAgICAgICAgICAgICAgICBpZD0iY29ubmVjdGl2aXR5IgogICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IlNlbGVjdCBjb25uZWN0aXZpdHkiCiAgICAgICAgICAgICAgICAgICAgICB0ZXh0RmllbGQ9InRvcGljIgogICAgICAgICAgICAgICAgICAgIC8+KX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7IXNob3dNb2RhbCAmJiA8TmV4RmllbGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7c2hvd01vZGFsICYmIDxOZXhGaWVsZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50PXtOZXhTZWxlY3R9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJuYW1pbmdDYXRlZ29yaWVzIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ9Im5hbWluZ0NhdGVnb3JpZXMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZT17KGV2ZW50LCB2YWx1ZSkgPT4gdGhpcy5jaGFuZ2VOYW1pbmdDYXRlZ29yeSh2YWx1ZSl9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iUGxlYXNlIG1ha2UgYSBzZWxlY3Rpb24iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhPXt0aGlzLnByb3BzLm5hbWluZ0NhdGVnb3JpZXN9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLz59Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9Gb2N1cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7IXNob3dNb2RhbCAmJiA8TmV4RmllbGQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -288,6 +293,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
