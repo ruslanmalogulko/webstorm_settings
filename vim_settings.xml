@@ -27,7 +27,7 @@
         <mark key="^" line="152" column="41" />
         <mark key="." line="152" column="41" />
       </file>
-      <file name="/JavaScript Console" timestamp="1522341661999">
+      <file name="/JavaScript Console" timestamp="1522391359647">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Traiana/frontend/webpack/eslint/.eslintrc.js" timestamp="1501919108977">
@@ -46,7 +46,7 @@
         <mark key="." line="25" column="100" />
         <mark key="^" line="25" column="100" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513869736071">
+      <file name="/Dummy.txt" timestamp="1522391801359">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Relationship/components/EditRelationship/EditRelationship.jsx" timestamp="1513868816654">
@@ -105,6 +105,12 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Traiana/frontend-combined/node_modules/reactory-scripts/bin/reactory-scripts.js" timestamp="1522341869244" />
+      <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Naming/components/NamingModal/NamingModal.jsx" timestamp="1522392128435">
+        <mark key="'" line="8" column="7" />
+        <mark key="[" line="415" column="14" />
+        <mark key="]" line="415" column="14" />
+        <mark key="." line="415" column="14" />
+      </file>
       <file name="$USER_HOME$/Traiana/frontend/public/src/App.jsx" timestamp="1501927157683">
         <mark key="'" line="33" column="0" />
       </file>
@@ -209,61 +215,62 @@
       <jump line="0" column="0" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Authentication/components/EditAuthentication/EditAuthentication.jsx" />
       <jump line="184" column="0" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Authentication/components/EditAuthentication/EditAuthentication.jsx" />
       <jump line="151" column="0" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Authentication/components/EditAuthentication/EditAuthentication.jsx" />
+      <jump line="416" column="3" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Naming/components/NamingModal/NamingModal.jsx" />
+      <jump line="8" column="7" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Naming/components/NamingModal/NamingModal.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>/__mocks__/layout.json</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>autoFocus</text>
+        <text encoding="base64">XDxuZXhEaXNjYXJkQ29uZmlybVw+</text>
       </register>
       <register name="0" type="4">
         <text>handleDelete</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG5leERpc2NhcmRDb25maXJtIGZyb20gJ25leC1kaXNjYXJkLWNvbmZpcm0nOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmV0dXJuOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">cmV0dXJuOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT0ibmV3Q2xhc3MiCg==</text>
+        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29tcG9uZW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT0ibmV3Q2xhc3MiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aW5kZXggPT09IDB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29tcG9uZW50KTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aW5kZXggPT09IDB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aW5kZXggPT09IDB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aXNFeGlzdGluZ1JlbGF0aW9uc2hpcCA/ICdmYWxzZScgOiAndHJ1ZSd9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>autoFocus</last-search>
+      <last-search encoding="base64">XDxuZXhEaXNjYXJkQ29uZmlybVw+</last-search>
       <last-offset />
-      <last-pattern>autoFocus</last-pattern>
+      <last-pattern encoding="base64">XDxuZXhEaXNjYXJkQ29uZmlybVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>button</entry>
         <entry>toggle.modal</entry>
         <entry>toggle.show</entry>
         <entry>toggle</entry>
@@ -283,6 +290,7 @@
         <entry>id</entry>
         <entry>render</entry>
         <entry>autoFocus</entry>
+        <entry encoding="base64">XDxuZXhEaXNjYXJkQ29uZmlybVw+</entry>
       </history-search>
       <history-cmd>
         <entry>sa</entry>
