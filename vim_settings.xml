@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Traiana/frontend-platform/nex-components/configurationLoader.js" timestamp="1522320066427">
@@ -13,9 +13,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Traiana/frontend3/public/src/components/reusables/nex-modal/index.jsx" timestamp="1522396337631">
-        <mark key="[" line="100" column="9" />
-        <mark key="]" line="100" column="9" />
+      <file name="$USER_HOME$/Traiana/frontend3/public/src/components/reusables/nex-modal/index.jsx" timestamp="1522398050991">
+        <mark key="'" line="10" column="29" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="35" />
         <mark key="^" line="100" column="9" />
         <mark key="." line="100" column="9" />
       </file>
@@ -29,25 +30,52 @@
       <file name="/JavaScript Console" timestamp="1522391359647">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Traiana/frontend3/public/src/WelcomeComponent.jsx" timestamp="1522398133129">
+        <mark key="'" line="8" column="17" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="35" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Traiana/frontend3/public/src/apps/nex-template-app/components/views/TemplateView/TemplateView.jsx" timestamp="1522398179152">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="35" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Traiana/frontend3/public/src/apps/nex-template-app/index.jsx" timestamp="1522398784552">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Traiana/frontend-combined/src/nex-layout/src/nex-layout/components/views/Layout/actions/layout.actions.js" timestamp="1522332383147">
         <mark key="[" line="25" column="9" />
         <mark key="]" line="25" column="100" />
         <mark key="." line="25" column="100" />
         <mark key="^" line="25" column="100" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522396060117">
+      <file name="/Dummy.txt" timestamp="1522398478340">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Traiana/frontend3/package.json" timestamp="1522395679477">
-        <mark key="[" line="74" column="19" />
-        <mark key="]" line="74" column="24" />
-        <mark key="." line="74" column="24" />
-        <mark key="^" line="74" column="24" />
+      <file name="$USER_HOME$/Traiana/frontend3/public/src/apps/nex-template-app/NexTemplateApp.jsx" timestamp="1522398183825">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Traiana/frontend3/package.json" timestamp="1522397853997">
+        <mark key="'" line="48" column="23" />
+        <mark key="[" line="78" column="22" />
+        <mark key="]" line="78" column="26" />
+        <mark key="." line="78" column="26" />
+        <mark key="^" line="78" column="26" />
       </file>
       <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Relationship/components/EditRelationship/EditRelationship.jsx" timestamp="1513868816654">
         <mark key="[" line="278" column="0" />
         <mark key="]" line="278" column="0" />
         <mark key="." line="278" column="0" />
+      </file>
+      <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/nex-onboarding.jsx" timestamp="1522398578054">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="39" />
       </file>
       <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Notifications/components/ConnectivityFilter/ConnectivityFilter.jsx" timestamp="1513868679649">
         <mark key="[" line="39" column="0" />
@@ -66,10 +94,10 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Traiana/frontend-combined/node_modules/reactory-scripts/bin/reactory-scripts.js" timestamp="1522341869244" />
-      <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Naming/components/NamingModal/NamingModal.jsx" timestamp="1522392128435">
+      <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Naming/components/NamingModal/NamingModal.jsx" timestamp="1522397048120">
         <mark key="'" line="8" column="7" />
-        <mark key="[" line="415" column="14" />
-        <mark key="]" line="415" column="14" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="35" />
         <mark key="." line="415" column="14" />
       </file>
     </filemarks>
@@ -168,19 +196,23 @@
       <jump line="151" column="0" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Authentication/components/EditAuthentication/EditAuthentication.jsx" />
       <jump line="416" column="3" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Naming/components/NamingModal/NamingModal.jsx" />
       <jump line="8" column="7" filename="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Naming/components/NamingModal/NamingModal.jsx" />
+      <jump line="54" column="21" filename="$USER_HOME$/Traiana/frontend3/public/src/components/reusables/nex-modal/index.jsx" />
+      <jump line="10" column="29" filename="$USER_HOME$/Traiana/frontend3/public/src/components/reusables/nex-modal/index.jsx" />
+      <jump line="48" column="23" filename="$USER_HOME$/Traiana/frontend3/package.json" />
+      <jump line="8" column="17" filename="$USER_HOME$/Traiana/frontend3/public/src/WelcomeComponent.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>15.4.0</text>
+        <text encoding="base64">IGNvbXBvbmVudD17TmV4VGVtcGxhdGVBcHB9</text>
       </register>
       <register name="-" type="4">
-        <text>15.4.0</text>
+        <text encoding="base64">IGNvbXBvbmVudD17TmV4VGVtcGxhdGVBcHB9</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXhEaXNjYXJkQ29uZmlybVw+</text>
+        <text>react-rou</text>
       </register>
-      <register name="0" type="4">
-        <text>handleDelete</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUHJvdmlkZXIgfSBmcm9tICdyZWFjdC1yZWR1eCc7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZW5kZXIoCiAgICAgICAgICAgIAogICAgICAgICAgICAsIHRoaXMuY29udGFpbmVyKTsK</text>
@@ -210,24 +242,18 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aW5kZXggPT09IDB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>47</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXhEaXNjYXJkQ29uZmlybVw+</last-search>
+      <last-search>react-rou</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXhEaXNjYXJkQ29uZmlybVw+</last-pattern>
+      <last-pattern>react-rou</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>toggle.modal</entry>
-        <entry>toggle.show</entry>
-        <entry>toggle</entry>
-        <entry encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</entry>
-        <entry>onUpdate</entry>
-        <entry encoding="base64">XDxvblVwZGF0ZVw+</entry>
         <entry encoding="base64">XDxoYW5kbGVTdWJFbnRpdHlTZWxlY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
         <entry>isNewFamily</entry>
@@ -242,11 +268,18 @@
         <entry>render</entry>
         <entry>autoFocus</entry>
         <entry encoding="base64">XDxuZXhEaXNjYXJkQ29uZmlybVw+</entry>
+        <entry>func</entry>
+        <entry>prop-types</entry>
+        <entry>propTypes</entry>
+        <entry>prop-</entry>
+        <entry>prop-ty</entry>
+        <entry>react-rou</entry>
       </history-search>
       <history-cmd>
         <entry>sa</entry>
         <entry>e #</entry>
         <entry>w</entry>
+        <entry>47</entry>
       </history-cmd>
       <history-expr />
       <history-input />
