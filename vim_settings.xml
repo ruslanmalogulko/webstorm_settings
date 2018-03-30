@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/ProfileMapping/components/Mapping/Mapping.jsx" timestamp="1520263108118">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="301" column="34" />
-        <mark key="]" line="301" column="34" />
-        <mark key="^" line="302" column="32" />
-        <mark key="." line="301" column="34" />
-      </file>
       <file name="$USER_HOME$/Traiana/frontend-platform/nex-components/configurationLoader.js" timestamp="1522320066427">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -19,6 +12,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Traiana/frontend3/public/src/components/reusables/nex-modal/index.jsx" timestamp="1522396337631">
+        <mark key="[" line="100" column="9" />
+        <mark key="]" line="100" column="9" />
+        <mark key="^" line="100" column="9" />
+        <mark key="." line="100" column="9" />
       </file>
       <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Authentication/components/EditAuthentication/EditAuthentication.jsx" timestamp="1522307994483">
         <mark key="'" line="151" column="0" />
@@ -30,65 +29,36 @@
       <file name="/JavaScript Console" timestamp="1522391359647">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Traiana/frontend/public/src/components/reusables/nex-form/components/NexField.jsx" timestamp="1505997376983">
-        <mark key="'" line="45" column="4" />
-        <mark key="[" line="46" column="24" />
-        <mark key="]" line="46" column="24" />
-        <mark key="^" line="46" column="24" />
-        <mark key="." line="46" column="24" />
-      </file>
       <file name="$USER_HOME$/Traiana/frontend-combined/src/nex-layout/src/nex-layout/components/views/Layout/actions/layout.actions.js" timestamp="1522332383147">
         <mark key="[" line="25" column="9" />
         <mark key="]" line="25" column="100" />
         <mark key="." line="25" column="100" />
         <mark key="^" line="25" column="100" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522391801359">
+      <file name="/Dummy.txt" timestamp="1522396060117">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Traiana/frontend3/package.json" timestamp="1522395679477">
+        <mark key="[" line="74" column="19" />
+        <mark key="]" line="74" column="24" />
+        <mark key="." line="74" column="24" />
+        <mark key="^" line="74" column="24" />
       </file>
       <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Relationship/components/EditRelationship/EditRelationship.jsx" timestamp="1513868816654">
         <mark key="[" line="278" column="0" />
         <mark key="]" line="278" column="0" />
         <mark key="." line="278" column="0" />
       </file>
-      <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Organization/components/EditOrganization/EditOrganization.jsx" timestamp="1501762978755">
-        <mark key="'" line="130" column="14" />
-        <mark key="[" line="207" column="41" />
-        <mark key="]" line="207" column="41" />
-        <mark key="^" line="207" column="41" />
-        <mark key="." line="207" column="41" />
-      </file>
-      <file name="$USER_HOME$/Traiana/frontend/.editorconfig" timestamp="1501919094206">
-        <mark key="'" line="11" column="3" />
-        <mark key="[" line="7" column="3" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Notifications/components/ConnectivityFilter/ConnectivityFilter.jsx" timestamp="1513868679649">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Properties/components/EditProperties.jsx" timestamp="1513869309832">
-        <mark key="'" line="200" column="22" />
-        <mark key="[" line="117" column="55" />
-        <mark key="]" line="117" column="55" />
-        <mark key="." line="117" column="55" />
-        <mark key="^" line="200" column="43" />
       </file>
       <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/ProfileMapping/ProfileMapping.jsx" timestamp="1520325653675">
         <mark key="[" line="63" column="10" />
         <mark key="]" line="63" column="11" />
         <mark key="^" line="63" column="7" />
         <mark key="." line="63" column="10" />
-      </file>
-      <file name="$USER_HOME$/Traiana/frontend/public/src/components/reusables/nex-form/components/NexDropdownPicker.jsx" timestamp="1505997523460">
-        <mark key="'" line="118" column="27" />
-        <mark key="[" line="13" column="37" />
-        <mark key="]" line="14" column="38" />
-        <mark key="^" line="14" column="38" />
-        <mark key="." line="14" column="38" />
       </file>
       <file name="$USER_HOME$/Traiana/frontend-combined/node_modules/reactory-scripts/scripts/dev.js" timestamp="1522342298080">
         <mark key="[" line="41" column="0" />
@@ -101,13 +71,6 @@
         <mark key="[" line="415" column="14" />
         <mark key="]" line="415" column="14" />
         <mark key="." line="415" column="14" />
-      </file>
-      <file name="$USER_HOME$/Traiana/frontend/public/src/apps/nex-onboarding/components/views/Naming/components/NamingOverview/NamingOverview.jsx" timestamp="1513868584574">
-        <mark key="'" line="257" column="54" />
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="^" line="257" column="54" />
-        <mark key="." line="192" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -208,10 +171,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>15.4.0</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>15.4.0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXhEaXNjYXJkQ29uZmlybVw+</text>
@@ -220,31 +183,31 @@
         <text>handleDelete</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG5leERpc2NhcmRDb25maXJtIGZyb20gJ25leC1kaXNjYXJkLWNvbmZpcm0nOwo=</text>
+        <text encoding="base64">ICAgICAgICByZW5kZXIoCiAgICAgICAgICAgIAogICAgICAgICAgICAsIHRoaXMuY29udGFpbmVyKTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PGRpdgogICAgICAgICAgICAgIGNsYXNzTmFtZT17Y3goewogICAgICAgICAgICAgICAgICAnbW9kYWwtd3JhcHBlcic6IHRydWUsCiAgICAgICAgICAgICAgICAgIFtjbGFzc05hbWVdOiAhIWNsYXNzTmFtZQogICAgICAgICAgICAgIH0pfQogICAgICAgICAgICAgIG9uQ2xpY2s9e29uQ2xvc2V9CiAgICAgICAgICAgID4KICAgICAgICAgICAgICAgIDxkaXYKICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPXtjeCh7CiAgICAgICAgICAgICAgICAgICAgICAnbW9kYWwtY29udGVudCc6IHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAnbW9kYWwtY29udGVudC0td2l0aC1oZWFkZXInOiAhIWhlYWRlcgogICAgICAgICAgICAgICAgICB9KX0KICAgICAgICAgICAgICAgICAgb25DbGljaz17dGhpcy5zdG9wUHJvcGFnYXRpb259CiAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAge2hlYWRlciA/CiAgICAgICAgICAgICAgICAgICAgICAgIDxoZWFkZXIgY2xhc3NOYW1lPSJtb2RhbC1oZWFkZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGgyIGNsYXNzTmFtZT0ibW9kYWwtaGVhZGVyX190ZXh0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7aGVhZGVyfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9oMj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt0aGlzLmNsb3NlQnV0dG9uKCl9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvaGVhZGVyPiA6CiAgICAgICAgICAgICAgICAgICAgICAgIHRoaXMuY2xvc2VCdXR0b24oKQogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAge2NoaWxkcmVuIHx8IChib2R5ICYmIHJlYWN0SHRtbFBhcnNlcihib2R5KSl9CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmV0dXJuOwo=</text>
+        <text encoding="base64">aW1wb3J0IG5leERpc2NhcmRDb25maXJtIGZyb20gJ25leC1kaXNjYXJkLWNvbmZpcm0nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT0ibmV3Q2xhc3MiCg==</text>
+        <text encoding="base64">cmV0dXJuOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29tcG9uZW50KTsK</text>
+        <text encoding="base64">ZGVidWdnZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aW5kZXggPT09IDB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT0ibmV3Q2xhc3MiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aW5kZXggPT09IDB9Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29tcG9uZW50KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGF1dG9Gb2N1cz17aW5kZXggPT09IDB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
